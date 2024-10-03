@@ -17,27 +17,27 @@ This repository contains a collection of Java implementations for classic concur
 
 ### 1. Auction House System
 - **Description**: Implements a multi-threaded auction system where multiple artists create NFTs, auctioneers manage auctions, and collectors place bids. Uses blocking queues to synchronize auction offers and handle concurrent access.
-- **Skills demonstrated**: Multi-threading, concurrency control, blocking queues, synchronization.
+- **Topics Covered**: Multi-threading, concurrency control, blocking queues, synchronization.
 
 ### 2. Readers-Writers Problem
 - **Description**: Solves the classic Readers-Writers problem, showcasing the ability to manage concurrent access to shared resources using synchronization techniques.
-- **Skills demonstrated**: Synchronization, resource management, concurrency.
+- **Topics Covered**: Synchronization, resource management, concurrency.
 
 ### 3. Custom Map Implementation
 - **Description**: A custom hash-based map data structure that resolves collisions and optimizes key-value retrieval and insertion.
-- **Skills demonstrated**: Data structures, hashing, collision resolution, algorithm optimization.
+- **Topics Covered**: Data structures, hashing, collision resolution, algorithm optimization.
 
 ### 4. Producer-Consumer Problem
 - **Description**: Solves the Producer-Consumer problem with proper coordination between producer and consumer threads using semaphores and shared buffers.
-- **Skills demonstrated**: Synchronization, thread coordination, semaphores.
+- **Topics Covered**: Synchronization, thread coordination, semaphores.
 
 ### 5. Pipeline Processing System
 - **Description**: Implements a multi-stage processing pipeline where each stage runs in a separate thread, improving performance through task parallelization.
-- **Skills demonstrated**: Multi-stage processing, threading, performance optimization.
+- **Topics Covered**: Multi-stage processing, threading, performance optimization.
 
 ### 6. Prime Number Finder
 - **Description**: A prime number finding algorithm implemented in both single-threaded and multi-threaded versions to highlight performance improvements from parallelization.
-- **Skills demonstrated**: Parallel processing, algorithm optimization, multi-threading.
+- **Topics Covered**: Parallel processing, algorithm optimization, multi-threading.
 
 ## How to Run
 Each project in the repository can be compiled and run separately. To compile and execute any file, use the following commands in your terminal:
