@@ -11,7 +11,6 @@ This repository contains a collection of Java implementations for classic concur
   - [Pipeline Processing System](#pipeline-processing-system)
   - [Prime Number Finder](#prime-number-finder)
 - [How to Run](#how-to-run)
-- [Technologies Used](#technologies-used)
 
 ## Key Projects
 
